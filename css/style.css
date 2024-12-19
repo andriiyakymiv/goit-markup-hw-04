@@ -246,6 +246,17 @@ img {
     flex-basis: calc((100% - 72px)/4);
 }
 
+.feature-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #8e8f99;
+    border-radius: 4px;
+    margin-bottom: 8px;
+    padding: 24px;
+    background: #f4f4fd;
+}
+
 .feature-item-title {
     margin-bottom: 8px;
 
